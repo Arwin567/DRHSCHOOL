@@ -1,0 +1,28 @@
+[build]
+  # Build command for both frontend and backend
+  command = "npm run build"
+  # Publish directory where built files are located
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "18"
+
+# Redirect all routes to index.html for SPA routing
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+# Security headers
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-XSS-Protection = "1; mode=block"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+
+# Functions configuration for server-side code
+[functions]
+  directory = "dist"
+  node_bundler = "esbuild"
