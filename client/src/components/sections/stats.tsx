@@ -1,6 +1,6 @@
 export default function StatsSection() {
   const stats = [
-    { number: "15+", label: "Years of Excellence" },
+    { number: "5+", label: "Years of Excellence" },
     { number: "2000+", label: "Students Trained" },
     { number: "95%", label: "Success Rate" },
     { number: "50+", label: "Expert Faculty" },
