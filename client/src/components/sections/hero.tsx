@@ -7,8 +7,10 @@ export default function Hero() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="lg:grid lg:grid-cols-2 lg:gap-16 items-center">
           <div>
-            <h1 className="text-4xl lg:text-5xl font-bold mb-6">
-              Welcome to DRS
+            <h1 className="text-4xl lg:text-5xl font-bold mb-2 whitespace-pre-line">
+              DRS
+              <br />
+              Discipline Resolute High School
             </h1>
             <p className="text-xl mb-8">
               Nurturing young minds with quality education and holistic development
