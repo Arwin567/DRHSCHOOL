@@ -99,7 +99,7 @@ export default function MandatoryDisclosure() {
                       <td className="px-6 py-4 text-sm font-medium text-gray-900">COPIES OF SOCIETIES/TRUST/COMPANY REGISTRATION/RENEWAL CERTIFICATE, AS APPLICABLE</td>
                       <td className="px-6 py-4 text-sm">
                         <a 
-                          href="/assets/Adobe Scan society reg 24-May-2024.pdf"
+                          href="/docs/Adobe Scan society reg 24-May-2024.pdf"
                           target="_blank" 
                           rel="noopener noreferrer"
                           className="text-school-orange hover:underline cursor-pointer"
@@ -113,7 +113,7 @@ export default function MandatoryDisclosure() {
                       <td className="px-6 py-4 text-sm font-medium text-gray-900">COPY OF NO OBJECTION CERTIFICATE (NOC) ISSUED, IF APPLICABLE, BY THE STATE GOVT./UT</td>
                       <td className="px-6 py-4 text-sm">
                         <a 
-                          href="/assets/Adobe Scan school NOC 30-Dec-2024 (2).pdf"
+                          href="/docs/Adobe Scan school NOC 30-Dec-2024 (2).pdf"
                           target="_blank" 
                           rel="noopener noreferrer"
                           className="text-school-orange hover:underline cursor-pointer"
@@ -127,7 +127,7 @@ export default function MandatoryDisclosure() {
                       <td className="px-6 py-4 text-sm font-medium text-gray-900">COPY OF VALID BUILDING SAFETY CERTIFICATE AS PER THE NATIONAL BUILDING CODE</td>
                       <td className="px-6 py-4 text-sm">
                         <a 
-                          href="/assets/Adobe Scan Buliding NOC  Jun 08, 2025.pdf"
+                          href="/docs/Adobe Scan Buliding NOC  Jun 08, 2025.pdf"
                           target="_blank" 
                           rel="noopener noreferrer"
                           className="text-school-orange hover:underline cursor-pointer"
@@ -141,7 +141,7 @@ export default function MandatoryDisclosure() {
                       <td className="px-6 py-4 text-sm font-medium text-gray-900">COPY OF VALID FIRE SAFETY CERTIFICATE ISSUED BY THE COMPETENT AUTHORITY</td>
                       <td className="px-6 py-4 text-sm">
                         <a 
-                          href="/assets/Adobe Scan fire certificate Apr 03, 2025.pdf"
+                          href="/docs/Adobe Scan fire certificate Apr 03, 2025.pdf"
                           target="_blank" 
                           rel="noopener noreferrer"
                           className="text-school-orange hover:underline cursor-pointer"
@@ -155,7 +155,7 @@ export default function MandatoryDisclosure() {
                       <td className="px-6 py-4 text-sm font-medium text-gray-900">COPY OF THE DEO CERTIFICATE SUBMITTED BY THE SCHOOL FOR AFFILIATION/UPGRADATION/EXTENSION OF AFFILIATION OR SELF CERTIFICATION BY SCHOOL</td>
                       <td className="px-6 py-4 text-sm">
                         <a 
-                          href="/assets/Adobe Scan 02-Jul-2024.pdf"
+                          href="/docs/Adobe Scan 02-Jul-2024.pdf"
                           target="_blank" 
                           rel="noopener noreferrer"
                           className="text-school-orange hover:underline cursor-pointer"
