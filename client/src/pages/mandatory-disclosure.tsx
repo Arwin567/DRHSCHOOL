@@ -1,6 +1,13 @@
 import Header from "@/components/layout/header";
 import Footer from "@/components/layout/footer";
 
+/**
+ * Renders a detailed profile of a school, including information about its administration,
+ * infrastructure, staff, and more. The profile is structured into sections labeled A through E,
+ * each containing specific details relevant to that category.
+ *
+ * @returns {JSX.Element} - The React component representing the SchoolProfile page.
+ */
 export default function MandatoryDisclosure() {
   return (
     <div className="min-h-screen">
