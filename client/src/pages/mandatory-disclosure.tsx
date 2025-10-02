@@ -169,7 +169,7 @@ export default function MandatoryDisclosure() {
                       <td className="px-6 py-4 text-sm font-medium text-gray-900">COPIES OF VALID WATER, HEALTH AND SANITATION CERTIFICATES</td>
                       <td className="px-6 py-4 text-sm">
                         <a 
-                          href="https://drsinstitutions.com/docs/WhatsApp%20Image%202025-06-08%20at%2014.19.54_7ebad150.jpg"
+                          href="/docs/WhatsApp Image 2025-10-01 at 8.27.51 AM.jpeg.jpg"
                           target="_blank" 
                           rel="noopener noreferrer"
                           className="text-school-orange hover:underline cursor-pointer"
@@ -183,7 +183,7 @@ export default function MandatoryDisclosure() {
                       <td className="px-6 py-4 text-sm font-medium text-gray-900">COPIES OF RECOGNITION CERTIFICATE UNDER RTE ACT, 2009, AND ITS RENEWAL IF APPLICABLE</td>
                       <td className="px-6 py-4 text-sm">
                         <a 
-                          href="https://drsinstitutions.com/docs/WhatsApp%20Image%202025-06-08%20at%2014.19.53_a33244fd.jpg"
+                          href="docs/decipline.pdf"
                           target="_blank" 
                           rel="noopener noreferrer"
                           className="text-school-orange hover:underline cursor-pointer"
