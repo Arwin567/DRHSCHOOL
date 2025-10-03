@@ -197,7 +197,7 @@ export default function MandatoryDisclosure() {
                       <td className="px-6 py-4 text-sm font-medium text-gray-900">Teachers Details</td>
                       <td className="px-6 py-4 text-sm">
                         <a 
-                          href="docs/NALGONDA SCHOOL TEACHERS DETAILS.csv"
+                          href="docs/NALGONDA SCHOOL TEACHERS DETAILS.pdf"
                           target="_blank" 
                           rel="noopener noreferrer"
                           className="text-school-orange hover:underline cursor-pointer"
