@@ -1,6 +1,9 @@
 import Header from "@/components/layout/header";
 import Footer from "@/components/layout/footer";
 
+/**
+ * Renders the Mandatory Public Disclosure component.
+ */
 export default function MandatoryDisclosure() {
   return (
     <div className="min-h-screen">
