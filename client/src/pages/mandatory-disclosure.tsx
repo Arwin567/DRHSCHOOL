@@ -192,7 +192,6 @@ export default function MandatoryDisclosure() {
                         </a>
                       </td>
                     </tr>
-                    </tr>
                     <tr className="hover:bg-gray-50">
                       <td className="px-6 py-4 text-sm text-gray-900">7</td>
                       <td className="px-6 py-4 text-sm font-medium text-gray-900">Teachers Details</td>
