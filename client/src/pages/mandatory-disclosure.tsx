@@ -1,6 +1,9 @@
 import Header from "@/components/layout/header";
 import Footer from "@/components/layout/footer";
 
+/**
+ * Renders the Mandatory Public Disclosure page with various sections of information.
+ */
 export default function MandatoryDisclosure() {
   return (
     <div className="min-h-screen">
@@ -191,7 +194,6 @@ export default function MandatoryDisclosure() {
                           Click Here
                         </a>
                       </td>
-                    </tr>
                     </tr>
                     <tr className="hover:bg-gray-50">
                       <td className="px-6 py-4 text-sm text-gray-900">7</td>
