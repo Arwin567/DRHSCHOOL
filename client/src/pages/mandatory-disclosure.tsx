@@ -192,6 +192,21 @@ export default function MandatoryDisclosure() {
                         </a>
                       </td>
                     </tr>
+                    </tr>
+                    <tr className="hover:bg-gray-50">
+                      <td className="px-6 py-4 text-sm text-gray-900">7</td>
+                      <td className="px-6 py-4 text-sm font-medium text-gray-900">Teachers Details</td>
+                      <td className="px-6 py-4 text-sm">
+                        <a 
+                          href="docs/NALGONDA SCHOOL TEACHERS DETAILS.xlsx"
+                          target="_blank" 
+                          rel="noopener noreferrer"
+                          className="text-school-orange hover:underline cursor-pointer"
+                        >
+                          Click Here
+                        </a>
+                      </td>
+                    </tr>
                   </tbody>
                 </table>
               </div>
