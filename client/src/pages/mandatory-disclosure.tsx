@@ -36,7 +36,7 @@ export default function MandatoryDisclosure() {
                     <tr className="hover:bg-gray-50">
                       <td className="px-6 py-4 text-sm text-gray-900">1</td>
                       <td className="px-6 py-4 text-sm font-medium text-gray-900">NAME OF THE SCHOOL</td>
-                      <td className="px-6 py-4 text-sm text-gray-900">Discipline Resolute School</td>
+                      <td className="px-6 py-4 text-sm text-gray-900">Discipline Resolute High School</td>
                     </tr>
                     <tr className="hover:bg-gray-50">
                       <td className="px-6 py-4 text-sm text-gray-900">2</td>
@@ -285,7 +285,7 @@ export default function MandatoryDisclosure() {
                     <tr className="hover:bg-gray-50">
                       <td className="px-6 py-4 text-sm text-gray-900">5</td>
                       <td className="px-6 py-4 text-sm font-medium text-gray-900">TEACHERS SECTION RATIO</td>
-                      <td className="px-6 py-4 text-sm text-gray-900">1:1.45</td>
+                      <td className="px-6 py-4 text-sm text-gray-900">1:1.5</td>
                     </tr>
                     <tr className="hover:bg-gray-50">
                       <td className="px-6 py-4 text-sm text-gray-900">6</td>
@@ -318,7 +318,7 @@ export default function MandatoryDisclosure() {
                     <tr className="hover:bg-gray-50">
                       <td className="px-6 py-4 text-sm text-gray-900">1</td>
                       <td className="px-6 py-4 text-sm font-medium text-gray-900">TOTAL CAMPUS AREA OF SCHOOL (IN SQUARE FEET)</td>
-                      <td className="px-6 py-4 text-sm text-gray-900">42,000 sq ft</td>
+                      <td className="px-6 py-4 text-sm text-gray-900">7284.34 sq ft</td>
                     </tr>
                     <tr className="hover:bg-gray-50">
                       <td className="px-6 py-4 text-sm text-gray-900">2</td>
