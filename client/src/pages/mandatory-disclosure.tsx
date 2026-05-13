@@ -173,26 +173,16 @@ export default function MandatoryDisclosure() {
                     </tr>
                     <tr className="hover:bg-gray-50">
                       <td className="px-6 py-4 text-sm text-gray-900">7</td>
-                      <td className="px-6 py-4 text-sm font-medium text-gray-900">COPIES OF RECOGNITION CERTIFICATE UNDER RTE ACT, 2009, AND ITS RENEWAL IF APPLICABLE</td>
+                      <td className="px-6 py-4 text-sm font-medium text-gray-900">COPIES OF RECOGNITION CERTIFICATE UNDER RTE ACT, 2009, AND ITS RENEWAL IF APPLICABLE / PROCEEDINGS OF THE REGIONAL JOINT DIRECTOR</td>
                       <td className="px-6 py-4 text-sm">
-                        <div className="flex flex-col gap-2">
-                          <a 
-                            href="/docs/decipline.pdf"
-                            target="_blank" 
-                            rel="noopener noreferrer"
-                            className="text-school-orange hover:underline cursor-pointer"
-                          >
-                            Click Here
-                          </a>
-                          <a 
-                            href="/docs/PROCEEDINGS OF THE REGIONAI.JOINT DÍRECTOR OV MIOO..pdf"
-                            target="_blank" 
-                            rel="noopener noreferrer"
-                            className="text-school-orange hover:underline cursor-pointer"
-                          >
-                            Click Here (Updated)
-                          </a>
-                        </div>
+                        <a 
+                          href="/docs/PROCEEDINGS OF THE REGIONAI.JOINT DÍRECTOR OV MIOO..pdf"
+                          target="_blank" 
+                          rel="noopener noreferrer"
+                          className="text-school-orange hover:underline cursor-pointer"
+                        >
+                          Click Here
+                        </a>
                       </td>
                     </tr>
                     <tr className="hover:bg-gray-50">
