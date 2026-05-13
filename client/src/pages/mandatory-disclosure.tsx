@@ -152,7 +152,7 @@ export default function MandatoryDisclosure() {
                     </tr>
                     <tr className="hover:bg-gray-50">
                       <td className="px-6 py-4 text-sm text-gray-900">5</td>
-                      <td className="px-6 py-4 text-sm font-medium text-gray-900">COPY OF THE DEO CERTIFICATE SUBMITTED BY THE SCHOOL FOR AFFILIATION/UPGRADATION/EXTENSION OF AFFILIATION OR SELF AFFIDAVIT</td>
+                      <td className="px-6 py-4 text-sm font-medium text-gray-900">COPY OF THE DEO CERTIFICATE SUBMITTED BY THE SCHOOL FOR AFFILIATION/UPGRADATION/EXTENSION OF AFFILIATION OR SELF [...]
                       <td className="px-6 py-4 text-sm">
                         <a 
                           href="/docs/SELF AFFIDAVIT.pdf"
@@ -387,13 +387,18 @@ export default function MandatoryDisclosure() {
                     </tr>
                     <tr className="hover:bg-gray-50">
                       <td className="px-6 py-4 text-sm text-gray-900">5</td>
-                      <td className="px-6 py-4 text-sm font-medium text-gray-900">NO. OF GIRLS TOILETS</td>
-                      <td className="px-6 py-4 text-sm text-gray-900">18</td>
+                      <td className="px-6 py-4 text-sm font-medium text-gray-900">NO. OF GIRLS TOILETS (Toilets + Urinals)</td>
+                      <td className="px-6 py-4 text-sm text-gray-900">(9+12)</td>
                     </tr>
                     <tr className="hover:bg-gray-50">
                       <td className="px-6 py-4 text-sm text-gray-900">6</td>
-                      <td className="px-6 py-4 text-sm font-medium text-gray-900">NO. OF BOYS TOILETS</td>
-                      <td className="px-6 py-4 text-sm text-gray-900">25</td>
+                      <td className="px-6 py-4 text-sm font-medium text-gray-900">NO. OF BOYS TOILETS (Toilets + Urinals)</td>
+                      <td className="px-6 py-4 text-sm text-gray-900">(9+21)</td>
+                    </tr>
+                    <tr className="hover:bg-gray-50">
+                      <td className="px-6 py-4 text-sm text-gray-900">7</td>
+                      <td className="px-6 py-4 text-sm font-medium text-gray-900">NO. OF CwSN TOILETS (Toilets + Urinals)</td>
+                      <td className="px-6 py-4 text-sm text-gray-900">(3+3)</td>
                     </tr>
                   </tbody>
                 </table>
