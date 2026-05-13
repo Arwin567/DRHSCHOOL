@@ -99,7 +99,7 @@ export default function MandatoryDisclosure() {
                       <td className="px-6 py-4 text-sm font-medium text-gray-900">COPIES OF SOCIETIES/TRUST/COMPANY REGISTRATION/RENEWAL CERTIFICATE, AS APPLICABLE</td>
                       <td className="px-6 py-4 text-sm">
                         <a 
-                          href="/docs/Adobe Scan society reg 24-May-2024.pdf"
+                          href="/docs/Certticate ot Reistration.pdf"
                           target="_blank" 
                           rel="noopener noreferrer"
                           className="text-school-orange hover:underline cursor-pointer"
@@ -113,7 +113,7 @@ export default function MandatoryDisclosure() {
                       <td className="px-6 py-4 text-sm font-medium text-gray-900">COPY OF NO OBJECTION CERTIFICATE (NOC) ISSUED, IF APPLICABLE, BY THE STATE GOVT./UT</td>
                       <td className="px-6 py-4 text-sm">
                         <a 
-                          href="/docs/Adobe Scan school NOC 30-Dec-2024 (2).pdf"
+                          href="/docs/Adobe Scan Buliding NOC  Jun 08, 2025.pdf"
                           target="_blank" 
                           rel="noopener noreferrer"
                           className="text-school-orange hover:underline cursor-pointer"
@@ -127,7 +127,7 @@ export default function MandatoryDisclosure() {
                       <td className="px-6 py-4 text-sm font-medium text-gray-900">COPY OF VALID BUILDING SAFETY CERTIFICATE AS PER THE NATIONAL BUILDING CODE</td>
                       <td className="px-6 py-4 text-sm">
                         <a 
-                          href="/docs/Adobe Scan Buliding NOC  Jun 08, 2025.pdf"
+                          href="/docs/BUILDING SAFETY CERTIFICATE.pdf"
                           target="_blank" 
                           rel="noopener noreferrer"
                           className="text-school-orange hover:underline cursor-pointer"
@@ -141,7 +141,7 @@ export default function MandatoryDisclosure() {
                       <td className="px-6 py-4 text-sm font-medium text-gray-900">COPY OF VALID FIRE SAFETY CERTIFICATE ISSUED BY THE COMPETENT AUTHORITY</td>
                       <td className="px-6 py-4 text-sm">
                         <a 
-                          href="/docs/Adobe Scan fire certificate Apr 03, 2025.pdf"
+                          href="/docs/FIRE SAFETY CERFICATE.pdf"
                           target="_blank" 
                           rel="noopener noreferrer"
                           className="text-school-orange hover:underline cursor-pointer"
@@ -152,10 +152,10 @@ export default function MandatoryDisclosure() {
                     </tr>
                     <tr className="hover:bg-gray-50">
                       <td className="px-6 py-4 text-sm text-gray-900">5</td>
-                      <td className="px-6 py-4 text-sm font-medium text-gray-900">COPY OF THE DEO CERTIFICATE SUBMITTED BY THE SCHOOL FOR AFFILIATION/UPGRADATION/EXTENSION OF AFFILIATION OR SELF CERTIFICATION BY SCHOOL</td>
+                      <td className="px-6 py-4 text-sm font-medium text-gray-900">COPY OF THE DEO CERTIFICATE SUBMITTED BY THE SCHOOL FOR AFFILIATION/UPGRADATION/EXTENSION OF AFFILIATION OR SELF AFFIDAVIT</td>
                       <td className="px-6 py-4 text-sm">
                         <a 
-                          href="/docs/Adobe Scan 02-Jul-2024.pdf"
+                          href="/docs/SELF AFFIDAVIT.pdf"
                           target="_blank" 
                           rel="noopener noreferrer"
                           className="text-school-orange hover:underline cursor-pointer"
@@ -169,7 +169,7 @@ export default function MandatoryDisclosure() {
                       <td className="px-6 py-4 text-sm font-medium text-gray-900">COPIES OF VALID WATER, HEALTH AND SANITATION CERTIFICATES</td>
                       <td className="px-6 py-4 text-sm">
                         <a 
-                          href="/docs/WhatsApp Image 2025-10-01 at 8.27.51 AM.jpeg"
+                          href="/docs/PROFORMA FOR SAFE DRINKING WATER AND SANITARY CONDITION CERTIFICATE.pdf"
                           target="_blank" 
                           rel="noopener noreferrer"
                           className="text-school-orange hover:underline cursor-pointer"
@@ -183,7 +183,7 @@ export default function MandatoryDisclosure() {
                       <td className="px-6 py-4 text-sm font-medium text-gray-900">COPIES OF RECOGNITION CERTIFICATE UNDER RTE ACT, 2009, AND ITS RENEWAL IF APPLICABLE</td>
                       <td className="px-6 py-4 text-sm">
                         <a 
-                          href="docs/decipline.pdf"
+                          href="/docs/decipline.pdf"
                           target="_blank" 
                           rel="noopener noreferrer"
                           className="text-school-orange hover:underline cursor-pointer"
@@ -193,11 +193,25 @@ export default function MandatoryDisclosure() {
                       </td>
                     </tr>
                     <tr className="hover:bg-gray-50">
-                      <td className="px-6 py-4 text-sm text-gray-900">7</td>
+                      <td className="px-6 py-4 text-sm text-gray-900">8</td>
+                      <td className="px-6 py-4 text-sm font-medium text-gray-900">PROCEEDINGS OF THE REGIONAL JOINT DIRECTOR</td>
+                      <td className="px-6 py-4 text-sm">
+                        <a 
+                          href="/docs/PROCEEDINGS OF THE REGIONAI.JOINT DÍRECTOR OV MIOO..pdf"
+                          target="_blank" 
+                          rel="noopener noreferrer"
+                          className="text-school-orange hover:underline cursor-pointer"
+                        >
+                          Click Here
+                        </a>
+                      </td>
+                    </tr>
+                    <tr className="hover:bg-gray-50">
+                      <td className="px-6 py-4 text-sm text-gray-900">9</td>
                       <td className="px-6 py-4 text-sm font-medium text-gray-900">Teachers Details</td>
                       <td className="px-6 py-4 text-sm">
                         <a 
-                          href="docs/NALGONDA SCHOOL TEACHERS DETAILS.pdf"
+                          href="/docs/NALGONDA SCHOOL TEACHERS DETAILS.pdf"
                           target="_blank" 
                           rel="noopener noreferrer"
                           className="text-school-orange hover:underline cursor-pointer"
@@ -227,22 +241,58 @@ export default function MandatoryDisclosure() {
                     <tr className="hover:bg-gray-50">
                       <td className="px-6 py-4 text-sm text-gray-900">1</td>
                       <td className="px-6 py-4 text-sm font-medium text-gray-900">FEE STRUCTURE</td>
-                      <td className="px-6 py-4 text-sm text-school-orange hover:underline cursor-pointer">Click Here</td>
+                      <td className="px-6 py-4 text-sm">
+                        <a 
+                          href="/docs/Fees class wise.pdf"
+                          target="_blank" 
+                          rel="noopener noreferrer"
+                          className="text-school-orange hover:underline cursor-pointer"
+                        >
+                          Click Here
+                        </a>
+                      </td>
                     </tr>
                     <tr className="hover:bg-gray-50">
                       <td className="px-6 py-4 text-sm text-gray-900">2</td>
                       <td className="px-6 py-4 text-sm font-medium text-gray-900">ANNUAL ACADEMIC CALENDAR</td>
-                      <td className="px-6 py-4 text-sm text-school-orange hover:underline cursor-pointer">Click Here</td>
+                      <td className="px-6 py-4 text-sm">
+                        <a 
+                          href="/docs/SCHOOL CALENDAR FOR THEAGADEMIC YEAR 2026-27.pdf"
+                          target="_blank" 
+                          rel="noopener noreferrer"
+                          className="text-school-orange hover:underline cursor-pointer"
+                        >
+                          Click Here
+                        </a>
+                      </td>
                     </tr>
                     <tr className="hover:bg-gray-50">
                       <td className="px-6 py-4 text-sm text-gray-900">3</td>
                       <td className="px-6 py-4 text-sm font-medium text-gray-900">LIST OF SCHOOL MANAGEMENT COMMITTEE(SMC)</td>
-                      <td className="px-6 py-4 text-sm text-school-orange hover:underline cursor-pointer">Click Here</td>
+                      <td className="px-6 py-4 text-sm">
+                        <a 
+                          href="/docs/School Management Committee.pdf"
+                          target="_blank" 
+                          rel="noopener noreferrer"
+                          className="text-school-orange hover:underline cursor-pointer"
+                        >
+                          Click Here
+                        </a>
+                      </td>
                     </tr>
                     <tr className="hover:bg-gray-50">
                       <td className="px-6 py-4 text-sm text-gray-900">4</td>
                       <td className="px-6 py-4 text-sm font-medium text-gray-900">LIST OF PARENT TEACHER ASSOCIATION (PTA)</td>
-                      <td className="px-6 py-4 text-sm text-school-orange hover:underline cursor-pointer">Click Here</td>
+                      <td className="px-6 py-4 text-sm">
+                        <a 
+                          href="/docs/Parent Teacher Association Guidelines.pdf"
+                          target="_blank" 
+                          rel="noopener noreferrer"
+                          className="text-school-orange hover:underline cursor-pointer"
+                        >
+                          Click Here
+                        </a>
+                      </td>
                     </tr>
                   </tbody>
                 </table>
