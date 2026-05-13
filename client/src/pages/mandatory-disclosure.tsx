@@ -152,7 +152,7 @@ export default function MandatoryDisclosure() {
                     </tr>
                     <tr className="hover:bg-gray-50">
                       <td className="px-6 py-4 text-sm text-gray-900">5</td>
-                      <td className="px-6 py-4 text-sm font-medium text-gray-900">COPY OF THE DEO CERTIFICATE SUBMITTED BY THE SCHOOL FOR AFFILIATION/UPGRADATION/EXTENSION OF AFFILIATION OR SELF [...]
+                      <td className="px-6 py-4 text-sm font-medium text-gray-900">COPY OF THE DEO CERTIFICATE SUBMITTED BY THE SCHOOL FOR AFFILIATION/UPGRADATION/EXTENSION OF AFFILIATION OR SELF AFFIDAVIT</td>
                       <td className="px-6 py-4 text-sm">
                         <a 
                           href="/docs/SELF AFFIDAVIT.pdf"
