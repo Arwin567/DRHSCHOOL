@@ -112,14 +112,7 @@ export default function MandatoryDisclosure() {
                       <td className="px-6 py-4 text-sm text-gray-900">2</td>
                       <td className="px-6 py-4 text-sm font-medium text-gray-900">COPY OF NO OBJECTION CERTIFICATE (NOC) ISSUED, IF APPLICABLE, BY THE STATE GOVT./UT</td>
                       <td className="px-6 py-4 text-sm">
-                        <a 
-                          href="/docs/Adobe Scan Buliding NOC  Jun 08, 2025.pdf"
-                          target="_blank" 
-                          rel="noopener noreferrer"
-                          className="text-school-orange hover:underline cursor-pointer"
-                        >
-                          Click Here
-                        </a>
+                        -
                       </td>
                     </tr>
                     <tr className="hover:bg-gray-50">
@@ -152,7 +145,7 @@ export default function MandatoryDisclosure() {
                     </tr>
                     <tr className="hover:bg-gray-50">
                       <td className="px-6 py-4 text-sm text-gray-900">5</td>
-                      <td className="px-6 py-4 text-sm font-medium text-gray-900">COPY OF THE DEO CERTIFICATE SUBMITTED BY THE SCHOOL FOR AFFILIATION/UPGRADATION/EXTENSION OF AFFILIATION OR SELF AFFIDAVIT</td>
+                      <td className="px-6 py-4 text-sm font-medium text-gray-900">COPY OF THE DEO CERTIFICATE SUBMITTED BY THE SCHOOL FOR AFFILIATION/UPGRADATION/EXTENSION OF AFFILIATION OR SELF [...]</td>
                       <td className="px-6 py-4 text-sm">
                         <a 
                           href="/docs/SELF AFFIDAVIT.pdf"
@@ -182,32 +175,28 @@ export default function MandatoryDisclosure() {
                       <td className="px-6 py-4 text-sm text-gray-900">7</td>
                       <td className="px-6 py-4 text-sm font-medium text-gray-900">COPIES OF RECOGNITION CERTIFICATE UNDER RTE ACT, 2009, AND ITS RENEWAL IF APPLICABLE</td>
                       <td className="px-6 py-4 text-sm">
-                        <a 
-                          href="/docs/decipline.pdf"
-                          target="_blank" 
-                          rel="noopener noreferrer"
-                          className="text-school-orange hover:underline cursor-pointer"
-                        >
-                          Click Here
-                        </a>
+                        <div className="flex flex-col gap-2">
+                          <a 
+                            href="/docs/decipline.pdf"
+                            target="_blank" 
+                            rel="noopener noreferrer"
+                            className="text-school-orange hover:underline cursor-pointer"
+                          >
+                            Click Here
+                          </a>
+                          <a 
+                            href="/docs/PROCEEDINGS OF THE REGIONAI.JOINT DÍRECTOR OV MIOO..pdf"
+                            target="_blank" 
+                            rel="noopener noreferrer"
+                            className="text-school-orange hover:underline cursor-pointer"
+                          >
+                            Click Here (Updated)
+                          </a>
+                        </div>
                       </td>
                     </tr>
                     <tr className="hover:bg-gray-50">
                       <td className="px-6 py-4 text-sm text-gray-900">8</td>
-                      <td className="px-6 py-4 text-sm font-medium text-gray-900">PROCEEDINGS OF THE REGIONAL JOINT DIRECTOR</td>
-                      <td className="px-6 py-4 text-sm">
-                        <a 
-                          href="/docs/PROCEEDINGS OF THE REGIONAI.JOINT DÍRECTOR OV MIOO..pdf"
-                          target="_blank" 
-                          rel="noopener noreferrer"
-                          className="text-school-orange hover:underline cursor-pointer"
-                        >
-                          Click Here
-                        </a>
-                      </td>
-                    </tr>
-                    <tr className="hover:bg-gray-50">
-                      <td className="px-6 py-4 text-sm text-gray-900">9</td>
                       <td className="px-6 py-4 text-sm font-medium text-gray-900">Teachers Details</td>
                       <td className="px-6 py-4 text-sm">
                         <a 
