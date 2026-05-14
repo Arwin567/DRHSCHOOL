@@ -5,7 +5,7 @@ export default function Hero() {
   return (
     <section className="relative bg-gradient-to-r from-school-blue to-school-blue-light text-white py-20">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="lg:grid lg:grid-cols-2 lg:gap-16 items-center">
+        <div className="lg:grid lg:grid-cols-1 lg:gap-16 items-center">
           <div>
             <h1 className="text-4xl lg:text-5xl font-bold mb-2 whitespace-pre-line">
               DRS
@@ -22,13 +22,6 @@ export default function Hero() {
                 </a>
               </Link>
             </div>
-          </div>
-          <div className="mt-12 lg:mt-0">
-            <img
-              src="/assets/WhatsApp Image 2025-06-07 at 16.04.57_00633c84_1749356068407-2kAsO1KD.jpg"
-              alt="Students in classroom"
-              className="rounded-lg shadow-xl"
-            />
           </div>
         </div>
       </div>
