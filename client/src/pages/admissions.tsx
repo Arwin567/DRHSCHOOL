@@ -29,10 +29,10 @@ export default function Admissions() {
   ];
 
   const feeStructure = [
-    { grade: "Pre-Primary (Nursery - UKG)", admissionFee: "₹25,000", annualFee: "₹85,000" },
-    { grade: "Primary (Class I - V)", admissionFee: "₹30,000", annualFee: "₹95,000" },
-    { grade: "Secondary (Class VI - X)", admissionFee: "₹35,000", annualFee: "₹1,05,000" },
-    { grade: "Senior Secondary (Class XI - XII)", admissionFee: "₹40,000", annualFee: "₹1,15,000" },
+    { grade: "Pre-Primary (Nursery - UKG)", applicationFee: "₹500", annualFee: "₹85,000" },
+    { grade: "Primary (Class I - V)", applicationFee: "₹500", annualFee: "₹95,000" },
+    { grade: "Secondary (Class VI - X)", applicationFee: "₹500", annualFee: "₹1,05,000" },
+    { grade: "Senior Secondary (Class XI - XII)", applicationFee: "₹500", annualFee: "₹1,15,000" },
   ];
 
   return (
@@ -103,7 +103,7 @@ export default function Admissions() {
                       <thead className="bg-school-blue text-white">
                         <tr>
                           <th className="text-left p-4">Grade</th>
-                          <th className="text-left p-4">Admission Fee</th>
+                          <th className="text-left p-4">Application Fee</th>
                           <th className="text-left p-4">Annual Fee</th>
                         </tr>
                       </thead>
@@ -111,7 +111,7 @@ export default function Admissions() {
                         {feeStructure.map((fee, index) => (
                           <tr key={index} className={index % 2 === 0 ? "bg-gray-50" : "bg-white"}>
                             <td className="p-4 font-medium">{fee.grade}</td>
-                            <td className="p-4">{fee.admissionFee}</td>
+                            <td className="p-4">{fee.applicationFee}</td>
                             <td className="p-4">{fee.annualFee}</td>
                           </tr>
                         ))}
